@@ -2,7 +2,7 @@
 
 > Mọi tin nhắn, câu trả lời của AI và dữ liệu trong bài đều là dữ liệu dựng để học. Prototype: mở [`prototype/index.html`](prototype/index.html) bằng trình duyệt.
 
-**Lớp:** L3B · **Track:** T2
+**Lớp:** L3B ·**Bàn/zone:** E **Track:** T2
 
 | Họ và tên | Mã học viên | Việc đã làm |
 |---|---|---|
